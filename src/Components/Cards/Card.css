@@ -13,10 +13,8 @@
     border-top-right-radius: 3rem;
     width: 100%;
     height: 65%;
-    position: relative;
+    background-size: cover;
     /* background-image: url(../../images/nep1.jpg); */
-    background-position: center;
-    background-repeat: no-repeat;
 }
 p{
     margin: 1rem;

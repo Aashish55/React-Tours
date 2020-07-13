@@ -1,0 +1,22 @@
+h2{
+    font-size: 3rem;
+    font-weight: 300;
+    animation-name: moveinleft;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+}
+@keyframes moveinleft{
+    0%{
+        opacity: 0;
+        transform: translateX(30rem);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
