@@ -1,3 +1,32 @@
-.Tours{
-    font-size: 5rem;
+.tabbarsWrapper{
+    height: 14rem;
+    overflow: hidden;
+}
+.tabbars{
+    height: 14rem;
+    display: flex;
+    align-items: center;
+    overflow-x: scroll;
+    padding-bottom: 2.2rem;
+}
+h3{
+    padding: 1rem 3rem 1rem 3rem;
+    margin: .5rem 2rem .5rem 2rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #009432;
+    border-radius: 2rem;
+    transition: .2s all ease-in;
+    
+    
+}
+h3:hover{
+    cursor: pointer;
+}
+h3.active{
+    transform: scale(1.2) ;
+    border: 2px solid green;
+}
+h3:hover:not(.active){
+    transform: translatey(-2px) ;
 }

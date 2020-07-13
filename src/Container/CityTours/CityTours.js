@@ -1,13 +1,13 @@
 import React from 'react';
 import Navbar from '../../Components/Navbar/Navbar';
-import Tours from '../../Components/Tours/Tours'
+import ToursTab from '../../Components/Tours/ToursTab'
 
 const CityTours=()=>{
 
     return (
         <div>
             <Navbar />
-            <Tours />
+            <ToursTab />
 
         </div>
     );
