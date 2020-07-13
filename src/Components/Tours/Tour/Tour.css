@@ -1,0 +1,25 @@
+.tabbarsWrapper{
+    height: 14rem;
+    overflow: hidden;
+}
+.tabbars{
+    height: 14rem;
+    display: flex;
+    align-items: center;
+    overflow-x: scroll;
+    padding-bottom: 2.2rem;
+}
+h3{
+    padding: 0 3rem 0 3rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #009432;
+}
+
+
+h3:hover,
+h3:active,
+h3.active
+{
+    cursor: pointer;
+}
