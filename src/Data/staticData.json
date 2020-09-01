@@ -1,0 +1,25 @@
+[
+    {
+        "name":"Panauti",
+        "description":"A sightseeing tour around Panauti with the host family is sure to interest travellers with various tastes. The women of Panauti have been able to generate extra income for their households through hosting guests, and have some control over their own money.",
+        "image":"../images/panauti.jpg",
+        "hotels":[
+            {
+                "name":"Hotel Panauti",
+                "hotelDetails":"Hotel Panauti is really the only budget hotel option in what I found to be a charming authentic town, which is not on the list of tourist destinations. Family owned old hotel with friendly helpful staff. Room adequate with comfortable mattress. I took a day trip to Namo Buddha, which I highly recommend. I also took a local bus to visit a nearby silk farm, as well as an exploration of the old quaint neighborhoods."
+            },
+            {
+                "name":"Panauti Community Homestay",
+                "hotelDetails":"The Panauti community homestay programme is great place to stay in the small village of Panauti, with its beautiful temples, and to get to know the traditional culture from a local family's point of view. The room is cosy and authentic with its low ceilings. The family (mother and two daughters) are very friendly and helpful and the services, as well as the food, are good. We had a lot of fun and shared a lot of experience over a tiny cup of rice liquor. They showed me around Panauti, and we went on a full-day hike in the surrounding hills. Recommended"
+            }
+        ],
+        "adventures":{
+            "name":"Panauti-Namobuddha Trekking",
+            "adventureDetails":"We begin our day tour at 9 am after having breakfast. We drive to Panauti via Bhaktapur. It is about 32 km and takes one hour to reach there. It is scenic drive passing UNESCO World heritage site along with countryside. After exploring Panauti, we walk straight through the fertile valley then hike up leaving village through the beautiful rhododendron forest. The Namobuddha is a highly revered pilgrimage site where there is a cave, Tibetan monastery and a old stupa. After visiting, stupa, Tamang monastery, we further go to see Tibetan monastery then, we drive back to Kathmandu."
+        },
+        "tours":{
+            "name":"Transport",
+            "tourDetails":"Panauti is tucked away in a side valley off the Arniko Hwy, about 7km south of Banepa. Buses run every 15 minutes between Panauti and Kathmandu’s Ratna Park bus station (Rs 70, 1½ to two hours); the last bus leaves Panauti at 5.30pm. For Dhulikhel you’ll have to change in Banepa (Rs 15, 20 minutes). It’s also possible to walk to Panauti from Dhulikhel (three to four hours), although the path now leads along a dusty road much of the way."
+        }
+    }
+]
